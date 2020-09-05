@@ -1,0 +1,463 @@
+# depslib dependency file v1.0
+1590454790 source:c:\users\pc\downloads\tp - ayed\cilindro.cpp
+	"cilindro.h"
+	"circulo.h"
+	<math.h>
+
+1590454815 c:\users\pc\downloads\tp - ayed\cilindro.h
+
+1589729531 c:\users\pc\downloads\tp - ayed\circulo.h
+	<string>
+	<string.h>
+
+1589666232 source:c:\users\pc\downloads\tp - ayed\circulo.cpp
+	"circulo.h"
+	<math.h>
+
+1589668801 source:c:\users\pc\downloads\tp - ayed\cola.cpp
+	"Cola.h"
+
+1589668453 c:\users\pc\downloads\tp - ayed\cola.h
+	<iostream>
+
+1590960950 source:c:\users\pc\downloads\tp - ayed\cubo.cpp
+	"Cubo.h"
+	<iostream>
+	<cstdio>
+
+1590960950 c:\users\pc\downloads\tp - ayed\cubo.h
+	<string>
+	<string.h>
+
+1592006919 source:c:\users\pc\downloads\tp - ayed\funciones.cpp
+	"Funciones.h"
+	<string>
+	<string.h>
+	<cstring>
+	<ctype.h>
+	<windows.h>
+
+1590965199 c:\users\pc\downloads\tp - ayed\funciones.h
+	"Circulo.h"
+	"Cilindro.h"
+	"lista.h"
+	"Cola.h"
+	"Rectangulo.h"
+	"Triangulo.h"
+	"Cubo.h"
+
+1588718905 c:\users\pc\downloads\tp - ayed\lista.h
+
+1590959915 c:\users\pc\downloads\tp - ayed\rectangulo.h
+	"Constantes.h"
+	<string>
+	<string.h>
+
+1588697976 c:\users\pc\downloads\tp - ayed\constantes.h
+
+1590961461 c:\users\pc\downloads\tp - ayed\triangulo.h
+	<string>
+	<string.h>
+
+1592013987 source:c:\users\pc\downloads\tp - ayed\lista.cpp
+	"Lista.h"
+
+1590959915 source:c:\users\pc\downloads\tp - ayed\rectangulo.cpp
+	<iostream>
+	"Rectangulo.h"
+
+1590962391 source:c:\users\pc\downloads\tp - ayed\triangulo.cpp
+	<iostream>
+	"triangulo.h"
+
+1592013951 source:c:\users\pc\downloads\tp - ayed\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<windows.h>
+	"Funciones.h"
+
+1590454790 source:c:\users\ezequiel\desktop\tp - ayed\cilindro.cpp
+	"cilindro.h"
+	"circulo.h"
+	<math.h>
+
+1590454815 c:\users\ezequiel\desktop\tp - ayed\cilindro.h
+
+1589729531 c:\users\ezequiel\desktop\tp - ayed\circulo.h
+	<string>
+	<string.h>
+
+1589666232 source:c:\users\ezequiel\desktop\tp - ayed\circulo.cpp
+	"circulo.h"
+	<math.h>
+
+1589668801 source:c:\users\ezequiel\desktop\tp - ayed\cola.cpp
+	"Cola.h"
+
+1589668453 c:\users\ezequiel\desktop\tp - ayed\cola.h
+	<iostream>
+
+1590960950 source:c:\users\ezequiel\desktop\tp - ayed\cubo.cpp
+	"Cubo.h"
+	<iostream>
+	<cstdio>
+
+1592082668 c:\users\ezequiel\desktop\tp - ayed\cubo.h
+	<string>
+	<string.h>
+
+1592013987 source:c:\users\ezequiel\desktop\tp - ayed\lista.cpp
+	"Lista.h"
+
+1592084411 c:\users\ezequiel\desktop\tp - ayed\lista.h
+
+1592056029 source:c:\users\ezequiel\desktop\tp - ayed\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<windows.h>
+	"Funciones.h"
+
+1590965199 c:\users\ezequiel\desktop\tp - ayed\funciones.h
+	"Circulo.h"
+	"Cilindro.h"
+	"lista.h"
+	"Cola.h"
+	"Rectangulo.h"
+	"Triangulo.h"
+	"Cubo.h"
+
+1592083069 c:\users\ezequiel\desktop\tp - ayed\rectangulo.h
+	"Constantes.h"
+	<string>
+	<string.h>
+
+1588697976 c:\users\ezequiel\desktop\tp - ayed\constantes.h
+
+1592083382 c:\users\ezequiel\desktop\tp - ayed\triangulo.h
+	<string>
+	<string.h>
+
+1590959915 source:c:\users\ezequiel\desktop\tp - ayed\rectangulo.cpp
+	<iostream>
+	"Rectangulo.h"
+
+1590962391 source:c:\users\ezequiel\desktop\tp - ayed\triangulo.cpp
+	<iostream>
+	"triangulo.h"
+
+1592018400 source:c:\users\ezequiel\desktop\tp - ayed\funciones.cpp
+	"Funciones.h"
+	<string>
+	<string.h>
+	<cstring>
+	<ctype.h>
+	<windows.h>
+
+1590454790 source:c:\users\caroo gomez\desktop\new folder (2)\tp - ayed (1)\tp - ayed\cilindro.cpp
+	"cilindro.h"
+	"circulo.h"
+	<math.h>
+
+1590454815 c:\users\caroo gomez\desktop\new folder (2)\tp - ayed (1)\tp - ayed\cilindro.h
+
+1589729531 c:\users\caroo gomez\desktop\new folder (2)\tp - ayed (1)\tp - ayed\circulo.h
+	<string>
+	<string.h>
+
+1589666232 source:c:\users\caroo gomez\desktop\new folder (2)\tp - ayed (1)\tp - ayed\circulo.cpp
+	"circulo.h"
+	<math.h>
+
+1589668801 source:c:\users\caroo gomez\desktop\new folder (2)\tp - ayed (1)\tp - ayed\cola.cpp
+	"Cola.h"
+
+1589668453 c:\users\caroo gomez\desktop\new folder (2)\tp - ayed (1)\tp - ayed\cola.h
+	<iostream>
+
+1592082585 source:c:\users\caroo gomez\desktop\new folder (2)\tp - ayed (1)\tp - ayed\cubo.cpp
+	"Cubo.h"
+	<iostream>
+	<cstdio>
+
+1592082668 c:\users\caroo gomez\desktop\new folder (2)\tp - ayed (1)\tp - ayed\cubo.h
+	<string>
+	<string.h>
+
+1592085865 source:c:\users\caroo gomez\desktop\new folder (2)\tp - ayed (1)\tp - ayed\funciones.cpp
+	"Funciones.h"
+	<string>
+	<string.h>
+	<cstring>
+	<ctype.h>
+	<windows.h>
+
+1590965199 c:\users\caroo gomez\desktop\new folder (2)\tp - ayed (1)\tp - ayed\funciones.h
+	"Circulo.h"
+	"Cilindro.h"
+	"lista.h"
+	"Cola.h"
+	"Rectangulo.h"
+	"Triangulo.h"
+	"Cubo.h"
+
+1592084411 c:\users\caroo gomez\desktop\new folder (2)\tp - ayed (1)\tp - ayed\lista.h
+
+1592083069 c:\users\caroo gomez\desktop\new folder (2)\tp - ayed (1)\tp - ayed\rectangulo.h
+	"Constantes.h"
+	<string>
+	<string.h>
+
+1588697976 c:\users\caroo gomez\desktop\new folder (2)\tp - ayed (1)\tp - ayed\constantes.h
+
+1592083382 c:\users\caroo gomez\desktop\new folder (2)\tp - ayed (1)\tp - ayed\triangulo.h
+	<string>
+	<string.h>
+
+1592084990 source:c:\users\caroo gomez\desktop\new folder (2)\tp - ayed (1)\tp - ayed\lista.cpp
+	"Lista.h"
+
+1592056029 source:c:\users\caroo gomez\desktop\new folder (2)\tp - ayed (1)\tp - ayed\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<windows.h>
+	"Funciones.h"
+
+1592082993 source:c:\users\caroo gomez\desktop\new folder (2)\tp - ayed (1)\tp - ayed\rectangulo.cpp
+	<iostream>
+	"Rectangulo.h"
+
+1592083266 source:c:\users\caroo gomez\desktop\new folder (2)\tp - ayed (1)\tp - ayed\triangulo.cpp
+	<iostream>
+	"triangulo.h"
+
+1589668801 source:c:\users\ezequiel\desktop\tdas con pre - post - axiomas\actualizado final\tp - ayed\cola.cpp
+	"Cola.h"
+
+1589668453 c:\users\ezequiel\desktop\tdas con pre - post - axiomas\actualizado final\tp - ayed\cola.h
+	<iostream>
+
+1592082585 source:c:\users\ezequiel\desktop\tdas con pre - post - axiomas\actualizado final\tp - ayed\cubo.cpp
+	"Cubo.h"
+	<iostream>
+	<cstdio>
+
+1592082668 c:\users\ezequiel\desktop\tdas con pre - post - axiomas\actualizado final\tp - ayed\cubo.h
+	<string>
+	<string.h>
+
+1592090748 source:c:\users\ezequiel\desktop\tdas con pre - post - axiomas\actualizado final\tp - ayed\funciones.cpp
+	"Funciones.h"
+	<string>
+	<string.h>
+	<cstring>
+	<ctype.h>
+	<windows.h>
+
+1590965199 c:\users\ezequiel\desktop\tdas con pre - post - axiomas\actualizado final\tp - ayed\funciones.h
+	"Circulo.h"
+	"Cilindro.h"
+	"lista.h"
+	"Cola.h"
+	"Rectangulo.h"
+	"Triangulo.h"
+	"Cubo.h"
+
+1592088791 c:\users\ezequiel\desktop\tdas con pre - post - axiomas\actualizado final\tp - ayed\circulo.h
+	<string>
+	<string.h>
+
+1592088720 c:\users\ezequiel\desktop\tdas con pre - post - axiomas\actualizado final\tp - ayed\cilindro.h
+
+1592084411 c:\users\ezequiel\desktop\tdas con pre - post - axiomas\actualizado final\tp - ayed\lista.h
+
+1592083069 c:\users\ezequiel\desktop\tdas con pre - post - axiomas\actualizado final\tp - ayed\rectangulo.h
+	"Constantes.h"
+	<string>
+	<string.h>
+
+1588697976 c:\users\ezequiel\desktop\tdas con pre - post - axiomas\actualizado final\tp - ayed\constantes.h
+
+1592083382 c:\users\ezequiel\desktop\tdas con pre - post - axiomas\actualizado final\tp - ayed\triangulo.h
+	<string>
+	<string.h>
+
+1592084990 source:c:\users\ezequiel\desktop\tdas con pre - post - axiomas\actualizado final\tp - ayed\lista.cpp
+	"Lista.h"
+
+1592090873 source:c:\users\ezequiel\desktop\tdas con pre - post - axiomas\actualizado final\tp - ayed\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<windows.h>
+	"Funciones.h"
+
+1592082993 source:c:\users\ezequiel\desktop\tdas con pre - post - axiomas\actualizado final\tp - ayed\rectangulo.cpp
+	<iostream>
+	"Rectangulo.h"
+
+1592083266 source:c:\users\ezequiel\desktop\tdas con pre - post - axiomas\actualizado final\tp - ayed\triangulo.cpp
+	<iostream>
+	"triangulo.h"
+
+1592088669 source:c:\users\ezequiel\desktop\tdas con pre - post - axiomas\actualizado final\tp - ayed\cilindro.cpp
+	"cilindro.h"
+	"circulo.h"
+	<math.h>
+
+1592088752 source:c:\users\ezequiel\desktop\tdas con pre - post - axiomas\actualizado final\tp - ayed\circulo.cpp
+	"circulo.h"
+	<math.h>
+
+1592088669 source:c:\users\ezequiel\desktop\trabajo practico - equipo 4\tp - ayed\cilindro.cpp
+	"cilindro.h"
+	"circulo.h"
+	<math.h>
+
+1592088720 c:\users\ezequiel\desktop\trabajo practico - equipo 4\tp - ayed\cilindro.h
+
+1592088791 c:\users\ezequiel\desktop\trabajo practico - equipo 4\tp - ayed\circulo.h
+	<string>
+	<string.h>
+
+1592088752 source:c:\users\ezequiel\desktop\trabajo practico - equipo 4\tp - ayed\circulo.cpp
+	"circulo.h"
+	<math.h>
+
+1589668801 source:c:\users\ezequiel\desktop\trabajo practico - equipo 4\tp - ayed\cola.cpp
+	"Cola.h"
+
+1589668453 c:\users\ezequiel\desktop\trabajo practico - equipo 4\tp - ayed\cola.h
+	<iostream>
+
+1592082585 source:c:\users\ezequiel\desktop\trabajo practico - equipo 4\tp - ayed\cubo.cpp
+	"Cubo.h"
+	<iostream>
+	<cstdio>
+
+1592082668 c:\users\ezequiel\desktop\trabajo practico - equipo 4\tp - ayed\cubo.h
+	<string>
+	<string.h>
+
+1592158978 source:c:\users\ezequiel\desktop\trabajo practico - equipo 4\tp - ayed\funciones.cpp
+	"Funciones.h"
+	<string>
+	<string.h>
+	<cstring>
+	<ctype.h>
+	<windows.h>
+
+1592158980 c:\users\ezequiel\desktop\trabajo practico - equipo 4\tp - ayed\funciones.h
+	"Circulo.h"
+	"Cilindro.h"
+	"lista.h"
+	<iostream>
+	"Rectangulo.h"
+	"Triangulo.h"
+	"Cubo.h"
+
+1592084411 c:\users\ezequiel\desktop\trabajo practico - equipo 4\tp - ayed\lista.h
+
+1592083069 c:\users\ezequiel\desktop\trabajo practico - equipo 4\tp - ayed\rectangulo.h
+	"Constantes.h"
+	<string>
+	<string.h>
+
+1588697976 c:\users\ezequiel\desktop\trabajo practico - equipo 4\tp - ayed\constantes.h
+
+1592083382 c:\users\ezequiel\desktop\trabajo practico - equipo 4\tp - ayed\triangulo.h
+	<string>
+	<string.h>
+
+1592159198 source:c:\users\ezequiel\desktop\trabajo practico - equipo 4\tp - ayed\lista.cpp
+	"Lista.h"
+
+1592159198 source:c:\users\ezequiel\desktop\trabajo practico - equipo 4\tp - ayed\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<windows.h>
+	"Funciones.h"
+
+1592082993 source:c:\users\ezequiel\desktop\trabajo practico - equipo 4\tp - ayed\rectangulo.cpp
+	<iostream>
+	"Rectangulo.h"
+
+1592083266 source:c:\users\ezequiel\desktop\trabajo practico - equipo 4\tp - ayed\triangulo.cpp
+	<iostream>
+	"triangulo.h"
+
+1592088669 source:d:\trabajo practico - equipo 4\tp - ayed\cilindro.cpp
+	"cilindro.h"
+	"circulo.h"
+	<math.h>
+
+1592088720 d:\trabajo practico - equipo 4\tp - ayed\cilindro.h
+
+1592088791 d:\trabajo practico - equipo 4\tp - ayed\circulo.h
+	<string>
+	<string.h>
+
+1592088752 source:d:\trabajo practico - equipo 4\tp - ayed\circulo.cpp
+	"circulo.h"
+	<math.h>
+
+1592082585 source:d:\trabajo practico - equipo 4\tp - ayed\cubo.cpp
+	"Cubo.h"
+	<iostream>
+	<cstdio>
+
+1592082668 d:\trabajo practico - equipo 4\tp - ayed\cubo.h
+	<string>
+	<string.h>
+
+1592158978 source:d:\trabajo practico - equipo 4\tp - ayed\funciones.cpp
+	"Funciones.h"
+	<string>
+	<string.h>
+	<cstring>
+	<ctype.h>
+	<windows.h>
+
+1592158980 d:\trabajo practico - equipo 4\tp - ayed\funciones.h
+	"Circulo.h"
+	"Cilindro.h"
+	"lista.h"
+	<iostream>
+	"Rectangulo.h"
+	"Triangulo.h"
+	"Cubo.h"
+
+1592084411 d:\trabajo practico - equipo 4\tp - ayed\lista.h
+
+1592083069 d:\trabajo practico - equipo 4\tp - ayed\rectangulo.h
+	"Constantes.h"
+	<string>
+	<string.h>
+
+1588697976 d:\trabajo practico - equipo 4\tp - ayed\constantes.h
+
+1592083382 d:\trabajo practico - equipo 4\tp - ayed\triangulo.h
+	<string>
+	<string.h>
+
+1592159198 source:d:\trabajo practico - equipo 4\tp - ayed\lista.cpp
+	"Lista.h"
+
+1592159198 source:d:\trabajo practico - equipo 4\tp - ayed\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<windows.h>
+	"Funciones.h"
+
+1592082993 source:d:\trabajo practico - equipo 4\tp - ayed\rectangulo.cpp
+	<iostream>
+	"Rectangulo.h"
+
+1592083266 source:d:\trabajo practico - equipo 4\tp - ayed\triangulo.cpp
+	<iostream>
+	"triangulo.h"
+
